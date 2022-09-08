@@ -1,0 +1,74 @@
+body {
+    text-align: center;
+}
+
+.big-image {
+    width: 100%;
+}
+
+.heading{
+    width: 100%;
+    font-size: large;
+    text-align: left;
+}
+
+.heading h3 {
+ display: inline;
+}
+
+.heading button {
+    float: right;
+}
+
+.btn-info {
+    font-size: 20px;
+    margin: 50px;
+}
+
+#status {
+    font-size: 25px;
+}
+
+.mario-footer {
+    bottom: 0;
+    position: fixed;
+    background-color: lightslategray;
+    width: 100%;
+    line-height: 3;
+}
+
+h4 {
+    background-color: aliceblue;
+    color: black;
+    font-weight: bolder;
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog {
+    width: 70%;
+}
+
+.instruction_image {
+    display: inline-block;
+    width: 45%;
+}
+
+canvas {
+    border-color: black;
+    border-width: 5px;
+    border-style: dotted;
+    box-shadow: 5px 5px 5px black;
+}
+
+.close {
+    color: red;
+    font-weight: bolder;
+}
+
+video {
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 10px;
+}
